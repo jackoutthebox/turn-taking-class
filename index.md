@@ -1,4 +1,4 @@
-# 5220063 Topics in Experimental Pragmatics: Adjectives
+# 5220067 From conversation to predictive language production and processing
 
 ## General Info
 
